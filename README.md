@@ -1,2 +1,1 @@
-# KerbalProject
-Repository with files on Kerbal Project M8O-112B-22
+# Cassiopeia B112 (Against all odds)
