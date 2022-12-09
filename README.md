@@ -8,3 +8,8 @@
 
 ### Программы 
 Программы для автопилота написаны на языке **Python** с использованием библиотеки **kRPC**
+- Программа для [проверки готовности сервера к подключению](Programming/StatusCheck.py)
+- Программа для [выхода на орбиту](Programming/Orbit.py)
+- Программа для [разгона](Programming/TransferAccel.py)
+- Программа для [торможения](Programming/TransferDecel.py)
+- Программа для [посадки](Programming/Landing.py) 
