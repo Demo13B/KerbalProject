@@ -18,3 +18,5 @@
 - Программа для [посадки](Programming/Landing.py) 
 
 
+
+https://user-images.githubusercontent.com/58824153/207814845-fcdc613f-2ce7-4537-b97d-9b1b3628ab30.mp4
