@@ -7,6 +7,9 @@
 - Эсмедляев Федор - Составитель презентации, помощник программиста
 
 ### Модель ракеты создана в конструкторе Kerbal Space Program
+![Duna Ship](https://user-images.githubusercontent.com/58824153/208072560-a860663b-b161-40f0-9812-678ef421017f.png)
+![Final](https://user-images.githubusercontent.com/58824153/208072607-a27b0541-a4cb-4a45-b525-418b275684d8.png)
+
 Файл с моделью [ракеты](Duna_spaceship.craft)
 
 ### Программы 
