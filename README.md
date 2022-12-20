@@ -22,7 +22,7 @@
 
 ### Демонстрация полета
 
-![frame](https://user-images.githubusercontent.com/58824153/208674676-d72fa15d-1721-4a51-b724-7d89250a5dd0.png =250x250 )
+![frame](https://user-images.githubusercontent.com/58824153/208674676-d72fa15d-1721-4a51-b724-7d89250a5dd0.png)
 
 
 ### Ссылка на Ресерчдок
