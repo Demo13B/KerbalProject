@@ -21,7 +21,7 @@
 - Программа для [посадки](Programming/Landing.py) 
 
 ### Ссылка на видеоотчет
-![](https://youtu.be/aR4YuX1uZqA)
+https://youtu.be/aR4YuX1uZqA
 
 ### Ссылка на Ресерчдок
 https://docs.google.com/document/d/1z7aYCXMUvt-deSaMFhczLEu03p2_VeRv63A-bPzbCCE/edit#heading=h.67fwkll8lsdz
