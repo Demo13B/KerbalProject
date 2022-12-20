@@ -20,6 +20,10 @@
 - Программа для [торможения](Programming/TransferDecel.py)
 - Программа для [посадки](Programming/Landing.py) 
 
+### Демонстрация полета
+
+![frame](https://user-images.githubusercontent.com/58824153/208674676-d72fa15d-1721-4a51-b724-7d89250a5dd0.png)
+
 
 ### Ссылка на Ресерчдок
 https://docs.google.com/document/d/1z7aYCXMUvt-deSaMFhczLEu03p2_VeRv63A-bPzbCCE/edit#heading=h.67fwkll8lsdz
