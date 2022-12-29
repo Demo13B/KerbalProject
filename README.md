@@ -25,3 +25,6 @@ https://drive.google.com/drive/folders/1YCAzFfPo0SN-qbRYnuolDRzoel3gR6qH?usp=sha
 
 ### Ссылка на видеоотчет на YouTube
 https://youtu.be/aR4YuX1uZqA
+
+### Ссылка на оригинал отчета
+https://docs.google.com/document/d/1z7aYCXMUvt-deSaMFhczLEu03p2_VeRv63A-bPzbCCE/edit
