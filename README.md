@@ -20,8 +20,8 @@
 - Программа для [торможения](Programming/TransferDecel.py)
 - Программа для [посадки](Programming/Landing.py) 
 
-### Ссылка на видеоотчет
-https://youtu.be/aR4YuX1uZqA
+### Ссылка на материалы проекта и отчет
+https://drive.google.com/drive/folders/1YCAzFfPo0SN-qbRYnuolDRzoel3gR6qH?usp=share_link
 
-### Ссылка на Ресерчдок
-https://docs.google.com/document/d/1z7aYCXMUvt-deSaMFhczLEu03p2_VeRv63A-bPzbCCE/edit#heading=h.67fwkll8lsdz
+### Ссылка на видеоотчет на YouTube
+https://youtu.be/aR4YuX1uZqA
