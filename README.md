@@ -28,3 +28,6 @@ https://youtu.be/aR4YuX1uZqA
 
 ### Ссылка на оригинал отчета
 https://docs.google.com/document/d/1z7aYCXMUvt-deSaMFhczLEu03p2_VeRv63A-bPzbCCE/edit#
+
+### Презентация
+[Proekt_2_4.pdf](https://github.com/Demo13B/KerbalProject/files/10333473/Proekt_2_4.pdf)
